@@ -14,8 +14,8 @@
 
   ## Description <a name="description"></a>
   In this challenge I am given the task of developing the server.js file by adding the correct GET and POST methods for the already provided html files.  This project will allow user to write and save notes to keep track of tasks.
-  ![functioning-app](/Develop/public/assets/images/Screen%20Shot%202022-10-19%20at%201.50.45%20AM.png)
-  ![functional-app](/Develop/public/assets/images/Screen%20Shot%202022-10-19%20at%201.50.59%20AM.png)
+  ![functioning-app](/public/assets/images/Screen%20Shot%202022-10-19%20at%201.50.45%20AM.png)
+  ![functional-app](/public/assets/images/Screen%20Shot%202022-10-19%20at%201.50.59%20AM.png)
 ## Installation <a name="installation"></a>
 its simple really, npm i make sure to npm i inquirer and then npm start
 ## Usage <a name="usage"></a>
